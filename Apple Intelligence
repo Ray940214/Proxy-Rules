@@ -1,0 +1,13 @@
+# Apple Intelligence分流
+# Update 20260628
+
+HOST-SUFFIX, gateway.icloud.com
+HOST, apple-relay.apple.com
+HOST, apple-relay.fastly-edge.com
+HOST, apple-relay.cloudflare.com
+HOST, guzzoni.apple.com
+HOST, cp4.cloudflare.com
+HOST gspe1-ssl.ls.apple.com
+HOST-SUFFIX, smoot.apple.com
+DOMAIN-SUFFIX, apple-relay.akamaized.net
+DOMAIN-SUFFIX, apple-relay.mask.apple-dns.net
