@@ -1,9 +1,9 @@
 # Mercari分流
 # Update 20260715
 
-host-suffix, mercari.com
-host-suffix, mercari.com
-host-suffix, mercari-japan.com
-host, mercari.jp
-host-suffix, mercari.jp
-host-suffix, mercajp.com
+HOST-SUFFIX, mercari.com
+HOST-SUFFIX, mercari.com
+HOST-SUFFIX, mercari-japan.com
+HOST, mercari.jp
+HOST-SUFFIX, mercari.jp
+HOST-SUFFIX, mercajp.com
